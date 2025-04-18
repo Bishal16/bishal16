@@ -1,34 +1,47 @@
-## Hi there, I'm Mahathir! 👋
+# 👋 Hi, I'm Mahathir Mohammad Bishal
 
-I'm a software engineer passionate about building impactful solutions.
+### 🚀 Backend Developer | Java | Spring Boot | Kafka | Open to Remote Opportunities
 
-### GitHub Stats
+I'm a Software Engineer at **Telcobright Ltd.**, building real-time VoIP billing and event-driven systems using Java, Spring Boot, and Kafka. I enjoy architecting clean, scalable APIs and solving challenging backend problems. I'm also passionate about problem solving, with 600+ algorithmic problems solved across platforms like LeetCode and Codeforces.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishal16&show_icons=true&hide_title=true&count_private=true&theme=graywhite&cache_seconds=30)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal16&layout=compact&langs_count=8&hide_title=true&theme=graywhite)
+### 🛠️ Tech Stack
+`Java` `Spring Boot` `Kafka` `MySQL` `PostgreSQL` `Docker`  
+`C#` `.NET` `ASP.NET` `Git` `Linux` `FreeSWITCH ESL`
 
+---
 
+### 📌 Featured Projects
 
-### Technologies I Work With
+- 🔄 [**COVID-19 Health Data Classification App**](https://github.com/Bishal16/COVID19-Health-Related-Data-Classification-Website)  
+  NLP-powered web app classifying COVID-19 tweets into health categories (Published in Q1 Journal - Heliyon, Elsevier)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+- 🧠 [**Facial Expression Recognition**](https://github.com/Bishal16/Facial-Expression-Recognition)  
+  Deep learning model using CNNs to classify human facial expressions from FER2013
 
+- 📬 [**Web Mailer**](https://gitlab.com/romatoo/romatoo_email) | [Live Demo](https://romatooemail.000webhostapp.com)  
+  Gmail-style web email client with inbox, drafts, attachments, and search
 
+- 🧮 [**Online Judge Tracker**](https://github.com/Bishal16/Online_judge_update_tracker)  
+  Dashboard app to track a user's progress across different coding platforms
 
-### 📫 Let's Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahathir-bishal-7b493b15a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bishal16)
+### 📚 Publications
+- [COVIDHealth: A Benchmark Twitter Dataset & Web Classifier](https://www.cell.com/heliyon/fulltext/S2405-8440(24)10134-X) *(Heliyon, Q1 Journal – Elsevier, 2024)*  
+- [Fine-Grained Categorization of Abusive Comments](https://aclanthology.org/2022.dravidianlangtech-1.34) *(ACL DravidianLangTech Workshop 2022)*
 
+---
+
+### 📊 GitHub Stats
+
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishal16&show_icons=true&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal16&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+### 📫 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/mahathir-bishal-7b493b15a/) • [LeetCode](https://leetcode.com/bishal16/) • [Codeforces](https://codeforces.com/submissions/Mahathir_CSE16)
+
+---
+
+📌 *Always open to meaningful collaborations, remote backend roles, and open-source contributions.*
