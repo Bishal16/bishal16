@@ -6,7 +6,7 @@ I'm a Software Engineer at **Telcobright Ltd.**, building real-time VoIP billing
 
 ### 🛠️ Tech Stack
 `Java` `Spring Boot` `Kafka` `MySQL` `PostgreSQL` `Docker`  
-`C#` `.NET` `ASP.NET` `Git` `Linux` `FreeSWITCH ESL`
+`C#` `ASP.NET` `Git` `Linux` `FreeSWITCH ESL`
 
 ---
 
