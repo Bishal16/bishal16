@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahathir Mohammad Bishal
+# 👋 Hi, I'm Mahathir
 
 ### 🚀 Backend Developer | Java | Spring Boot | Kafka | Open to Remote Opportunities
 
